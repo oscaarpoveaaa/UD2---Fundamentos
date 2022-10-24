@@ -1,1 +1,0 @@
-<footer><h1>Tu supermercado de confianza</h1></footer>
